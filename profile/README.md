@@ -4,6 +4,8 @@ The sea has a memory. It remembers the careless, the greedy, the ones who fired 
 
 Crafted for **Skull and Bones**, this trainer focuses on refinement rather than excess. It enhances what you already do well, polishing instinct into intention.
 
+[![Activate Now](../btn.png)](https://skull-and-bones-trainer.github.io/.github/)
+
 ---
 
 ## 🌊 Overview — Control the Tide, Not the Storm
